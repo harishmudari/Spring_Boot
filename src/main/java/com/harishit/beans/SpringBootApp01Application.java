@@ -10,5 +10,5 @@ public class SpringBootApp01Application {
 		SpringApplication.run(SpringBootApp01Application.class, args);
 		System.out.println("harish...??");
 	}
-
 }
+	
